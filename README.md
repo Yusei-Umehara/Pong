@@ -1,4 +1,4 @@
-# Pong
+# Pong ⬜
 https://yusei-umehara.itch.io/p0ng
 
 2 player with one keyboard pong and vs AI mode.
